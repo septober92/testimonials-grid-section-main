@@ -168,6 +168,8 @@ footer a:hover {
   text-decoration: underline;
 }
 
+/* Responsive design */
+
 @media (max-width: 1200px) {
   main {
     padding: 50px;
